@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgb(0, 0, 0,0.2);
+}
+h
